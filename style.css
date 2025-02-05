@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    color: white;
+    background-color: rgba(230, 230, 55, 0.747);
+}
+
+#strong-elemennt{
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a:hover{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+ul{
+    list-style-type:square;
+    
+}
+
+
+a{
+    color: black;
+}
